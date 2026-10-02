@@ -1,4 +1,6 @@
-supabase-config.js
+src/supabase-config.js
+__pycache__/
+.DS_Store
 .env
 .env.*
 node_modules/

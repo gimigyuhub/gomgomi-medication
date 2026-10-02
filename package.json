@@ -1,0 +1,9 @@
+{
+  "name": "gomgomi-medication",
+  "private": true,
+  "description": "곰곰이 — 약 봉투 사진으로 약을 등록하고 가족의 복약을 챙기는 웹앱",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "python3 -m http.server 5174"
+  }
+}
