@@ -1,0 +1,6 @@
+supabase-config.js
+.env
+.env.*
+node_modules/
+*.log
+약봉투 사진/
